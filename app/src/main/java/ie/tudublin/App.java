@@ -6,6 +6,12 @@ package ie.tudublin;
 import java.util.List;
 
 public class App {
+	
+    public String getGreeting(){
+        return "Hello World";
+	}
+
+
     public static void main(String[] args) {
         // We will take the input as a command line parameter
         if (args.length != 1) {
