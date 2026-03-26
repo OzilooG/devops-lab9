@@ -2,7 +2,7 @@
 *.class
 
 #ignore file 
-build/
+/build/
 
 # Log file
 *.log
